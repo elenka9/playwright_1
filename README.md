@@ -1,4 +1,4 @@
-# [My first playwright test](https://github.com/elenka9/my-first-playwright-test/blob/main/playwright.config.ts)
+# [My first playwright test](https://github.com/elenka9/playwright_1/blob/main/tests/mainPage.spec.ts)
 
 *☝️ клик, чтобы посмотреть*
 
@@ -18,7 +18,7 @@
 *Инструмент:*  Playwright - это библиотека Node.js для автоматизации Chromium, Firefox и WebKit с помощью одного API
 
 
-1. [Первые шаги в тестах с помощью Playwright](https://github.com/elenka9/my-first-playwright-test/blob/main/playwright.config.ts)
+1. [Первые шаги в тестах с помощью Playwright](https://github.com/elenka9/playwright_1/blob/main/tests/mainPage.spec.ts)
 
 
 - применила мэтчеры:
