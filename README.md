@@ -1,4 +1,4 @@
-# [My first playwright test](https://github.com/elenka9/playwright_1/blob/main/tests/mainPage.spec.ts)
+# [My first playwright test](https://github.com/elenka9/playwright_2/blob/main/tests/mainPage.spec.ts)
 
 *☝️ клик, чтобы посмотреть*
 
